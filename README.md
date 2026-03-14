@@ -10,7 +10,7 @@ Model is a Multinomial naive-bayes with TF-IDF vectorization
 
 `git clone https://github.com/pixelanikait/my-spam-classifier.git`
 
-`cd spam-classifier`
+`cd my-spam-classifier`
 
 `pip install -r requirements.txt`
 
