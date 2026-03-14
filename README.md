@@ -8,7 +8,7 @@ Model is a Multinomial naive-bayes with TF-IDF vectorization
 
 ## Installation:
 
-`git clone https://github.com/<your-username>/spam-classifier.git`
+`git clone https://github.com/pixelanikait/my-spam-classifier.git`
 
 `cd spam-classifier`
 
